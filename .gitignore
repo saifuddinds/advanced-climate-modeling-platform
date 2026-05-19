@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Large data files — DO NOT commit to git
+data/raw/*.nc
+data/processed/*.nc
+data/zarr/
+outputs/figures/*.png
+outputs/reports/*.csv
+logs/*.log
+metadata/run_metadata.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# CDS API key — never commit this
+.cdsapirc
