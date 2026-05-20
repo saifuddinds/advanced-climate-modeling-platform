@@ -24,8 +24,6 @@ This project is an educational single-node HPC-inspired climate science platform
 - **SYNTHETIC MODE** — Auto-generates realistic climate data. Works immediately, no downloads needed.
 - **REAL DATA MODE** — Uses actual ERA5 reanalysis data from ECMWF Copernicus CDS.
 
-> **Viva Statement:** *"This is a prototype advanced climate modeling platform that demonstrates the core layers of a modern climate-science workflow: model-layer alignment, HPC scheduling, scientific data storage, distributed analytics, uncertainty quantification, bias correction, statistical downscaling, visualization, and data publishing."*
-
 ---
 
 ## ✨ Features
